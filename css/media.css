@@ -1,0 +1,1167 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+    
+	/*header start*/
+	.logo {
+	    width: 150px;
+	}
+	.menu ul li a{
+		padding: 5px 0 0;
+		font-size: 18px;
+	}
+	.btn_search {
+	    width: 130px;
+	    height: 40px;
+	    font-size: 16px;
+	}
+	.btn_login {
+	    width: 90px;
+	    height: 40px;
+	    font-size: 15px;
+	}
+
+	/*banner start*/
+	.banner{
+		padding: 50px 0;
+	}
+	.b_h1 h1 {
+	    font-size: 30px;
+	}
+	.b_p p {
+		padding: 30px 0 35px 0;
+        font-size: 16px;
+        line-height: 27px;
+	}
+	.btn_st {
+        width: 150px;
+        height: 40px;
+        font-size: 15px;
+    }
+	.c_ul {
+    	padding: 450px 0 20px;
+	}
+	.c_ul li{
+		padding: 10px 20px 0 0;
+	}
+	.c_ul li h2{
+		font-size: 25px;
+	}
+	.c_ul li p{
+		font-size: 15px;
+	}
+	.img1{
+		width: 230px;
+        top: 385px;
+	}
+	.border {
+        width: 50px;
+        height: 50px;
+        bottom: 286px;
+        left: 0px;
+    }
+	.img2 {
+       width: 260px;
+        right: 15px;
+        bottom: 155px;
+    }
+   .btn_godown{
+		width: 50px;
+		height: 50px;
+		font-size: 20px;
+	}
+	.btn_godown i {
+    	padding-top: 7px;
+	}
+
+	/*service start*/
+	.sh1 {
+    	padding-bottom: 10px;
+	}
+	.line {
+   		width: 20%;
+    	padding: 6px 20px 0 0;
+	}
+	.s_h1 h1 {
+    	font-size: 30px;
+	}
+	.s_item{
+		padding-top: 30px;
+	}
+	.item_img img{
+		width: 60% !important;
+	}
+	.item_text h3 {
+    	padding-bottom: 15px;
+    	font-size: 23px;
+	}
+	.item_text p {
+	    font-size: 15px;
+	    line-height: 27px;
+	}
+	/*feature start*/
+	.feature{
+		padding: 0 0 50px;
+	}
+	.fc_img{
+		padding: 0 10px 30px;
+	}
+	.fc_img img{
+		height: 275px !important;
+	}
+	.fc_txt{
+		padding: 0 10px;
+	}
+	.fc_txt h1 {
+    	font-size: 30px;
+	}
+	.fc_txt p {
+	    padding: 15px 0 10px;
+	    font-size: 15px;
+	    line-height: 27px;
+	}
+	#accordion h3 {
+	    padding: 10px 0;
+	    font-size: 16px;	
+	}
+	.plus i {
+    	padding-left: 27px;
+	}
+	.plus2 i {
+    	padding-left: 204px;
+	}
+	.btn_learn {
+		width: 150px;
+        height: 40px;
+        font-size: 15px;
+        margin-top: 25px !important;
+    }
+
+    /*feature2 start*/
+    .feature2{
+		padding: 20px 0;
+	}
+	.f2_content h1 {
+        padding: 0 0;
+        font-size: 30px;
+    }
+	.step {
+        padding: 35px 0 0;
+    }
+    .f2_icon img {
+    	width: 60% !important;
+	}
+	.lft_cnt {
+    	padding-left: 72px;
+	}
+	.lft_cnt p{
+		padding: 10px 0 0 0;
+		font-size: 15px;
+		line-height: 28px;
+	}
+	.lft_cnt h3 {
+    	font-size: 20px;
+	}
+	.f2_img{
+		padding: 0 0 30px;
+	}
+	.f2_img img{
+		height: 275px;
+	}
+
+
+	/*about start*/
+	.ab_img img{
+		padding: 0 70px;
+	}
+	.ab_h1 {
+        padding-top: 50px;
+        font-size: 30px;
+    }
+	.pos_car1 {
+        width: 250px;
+        height: 275px;
+        right: 82px;
+        bottom: 130px;
+    }
+	.s_content {
+        width: 250px;
+        height: 275px;
+    }
+	.margin {
+    	margin-right: 0;
+	}
+	.test1 {
+        padding: 20px 30px 25px;
+        width: 250px;
+        height: 275px;
+    }
+	.test1 img {
+    	width: 7% !important;
+	}
+	.test1 p {
+        padding: 0px 0 10px 0;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .t2{
+    	display: none;
+    }
+	.ca1_img img {
+    	width: 65% !important;
+	}
+	.addr h4 {
+    	font-size: 14px;
+	}
+	.addr span {
+    	font-size: 14px;
+	}
+	.car_btn {
+        width: 130px;
+        bottom: -55px;
+        left: 60px;
+    }
+	.btn_left {
+    	margin-right: 30px;
+    	width: 40px;
+    	height: 40px;
+	}
+	.btn_right {
+	    width: 40px;
+	    height: 40px;
+	}
+
+
+	/*nwsltr start*/
+	.newsletter {
+    	padding-top: 50px;
+    	bottom: -20px;
+	}
+	.nws_content h1{
+		font-size: 27px;
+	}
+	.nws_content p {
+    	padding: 25px 40px 45px;
+    	font-size: 16px;
+    	line-height: 27px;
+	}
+	.s_icon i{
+		font-size: 14px;
+		top: 13px;
+		left: 5px;
+	}
+	.s_form{
+		padding: 8px 85px 8px 25px;
+	}
+	.btn_sub {
+	    padding-top: 5px;
+        width: 80px;
+        height: 30px;
+        font-size: 12px;
+        right: 2px;
+        top: 7px;
+	}
+
+	/*footer start*/
+	.footer{
+		padding: 50px 0;
+	}
+	.sec1{
+		padding: 0 5px;
+	}
+	.sec1, .sec2{
+		padding-top: 35px;
+		text-align: center;
+	}
+	.footer_logo img {
+    	width: 80% !important;
+	}
+	.sec1 p {
+    	padding: 20px 0 30px;
+    	font-size: 15px;
+    	font-weight: 400;
+    	line-height: 27px;
+	}
+	.social_link ul li a i{
+		padding-right: 5px;
+		font-size: 16px;
+	}
+	.sec2 p{
+		padding-top: 15px;
+		font-size: 15px;
+		font-weight: 400;
+	}
+	.sec2 h3 {
+    	padding: 10px 0 10px;
+	}
+	.sec2 ul li {
+    	padding-top: 5px;
+	}
+	.sec2 ul li a {
+    	font-size: 15px;
+    	font-weight: 400;
+	}
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    
+	/*header start*/
+	.logo {
+	    width: 160px;
+	}
+	.menu ul li a{
+		padding: 10px 0 0;
+		font-size: 18px;
+	}
+	.btn_search {
+	    width: 140px;
+	    height: 45px;
+	    font-size: 18px;
+	}
+	.btn_login {
+	    width: 90px;
+	    height: 40px;
+	    font-size: 18px;
+	}
+
+	/*banner start*/
+	.banner{
+		padding: 60px 0;
+	}
+	.b_h1 h1 {
+	    font-size: 35px;
+	}
+	.b_p p {
+		padding: 30px 0 60px 0;
+	    font-size: 17px;
+	    line-height: 30px;
+	}
+	.btn_st {
+        width: 165px;
+        height: 45px;
+        font-size: 16px;
+    }
+	.c_ul {
+    	padding: 450px 0 20px;
+	}
+	.c_ul li{
+		padding-right: 25px;
+	}
+	.c_ul li h2{
+		font-size: 25px;
+	}
+	.c_ul li p{
+		font-size: 15px;
+	}
+	.img1{
+		width: 300px;
+		top: 270px;
+	}
+	.border {
+        width: 90px;
+        height: 90px;
+        bottom: 230px;
+        left: 100px;
+    }
+	.img2 {
+        width: 340px;
+        right: 55px;
+        bottom: 85px;
+    }
+    .btn_godown{
+		width: 70px;
+        height: 70px;
+        font-size: 28px;
+	}
+	.btn_godown i {
+    	padding-top: 15px;
+	}
+
+	/*service start*/
+	.sh1 {
+    	padding-bottom: 10px;
+	}
+	.line {
+   		width: 13%;
+    	padding: 12px 20px 0 0;
+	}
+	.s_h1 h1 {
+    	font-size: 35px;
+	}
+	.s_item{
+		padding-top: 60px;
+	}
+	.item_img img{
+		width: 35% !important;
+	}
+	.item_text h3 {
+    	padding-bottom: 15px;
+	}
+	.item_text p {
+	    font-size: 16px;
+	    line-height: 30px;
+	}
+	/*feature start*/
+	.feature{
+		padding: 0 0 50px;
+	}
+	.fc_img{
+		padding: 0 60px 30px;
+	}
+	.fc_img img{
+		height: 300px !important;
+	}
+	.fc_txt{
+		padding: 0 30px;
+	}
+	.fc_txt h1 {
+    	font-size: 35px;
+	}
+	.fc_txt p {
+	    padding: 20px 0 20px;
+	    font-size: 16px;
+	    line-height: 30px;
+	}
+	#accordion h3 {
+	    padding: 10px 0;
+	    font-size: 17px;	
+	}
+	.plus i {
+    	padding-left: 192px;
+	}
+	.plus2 i {
+    	padding-left: 92px;
+	}
+	.btn_learn {
+		width: 165px;
+        height: 45px;
+        font-size: 16px;
+        margin-top: 25px !important;
+    }
+
+    /*feature2 start*/
+    .feature2{
+		padding: 20px 0;
+	}
+	.f2_content h1 {
+        padding: 0 30px;
+        font-size: 35px;
+    }
+	.step {
+        padding: 35px 30px 0;
+    }
+    .f2_icon img {
+    	width: 65% !important;
+	}
+	.lft_cnt {
+    	padding-left: 80px;
+	}
+	.lft_cnt p{
+		padding: 10px 0 0 0;
+		font-size: 16px;
+		line-height: 28px;
+	}
+	.lft_cnt h3 {
+    	font-size: 24px;
+	}
+	.f2_img{
+		padding: 0 60px 30px;
+	}
+	.f2_img img{
+		height: 300px;
+	}
+
+	/*about start*/
+	.ab_img img{
+		padding: 0 70px;
+	}
+	.ab_h1 {
+        padding-top: 50px;
+        font-size: 35px;
+    }
+	.pos_car1 {
+        width: 250px;
+        height: 275px;
+        right: 82px;
+        bottom: 130px;
+    }
+	.s_content {
+        width: 250px;
+        height: 275px;
+    }
+	.margin {
+    	margin-right: 0;
+	}
+	.test1 {
+        padding: 20px 30px 25px;
+        width: 250px;
+        height: 275px;
+    }
+	.test1 img {
+    	width: 7% !important;
+	}
+	.test1 p {
+        padding: 0px 0 10px 0;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .t2{
+    	display: none;
+    }
+	.ca1_img img {
+    	width: 65% !important;
+	}
+	.addr h4 {
+    	font-size: 14px;
+	}
+	.addr span {
+    	font-size: 14px;
+	}
+	.car_btn {
+        width: 130px;
+        bottom: -55px;
+        left: 60px;
+    }
+	.btn_left {
+    	margin-right: 30px;
+    	width: 40px;
+    	height: 40px;
+	}
+	.btn_right {
+	    width: 40px;
+	    height: 40px;
+	}
+
+
+	/*nwsltr start*/
+	.newsletter {
+    	padding-top: 50px;
+	}
+	.nws_content h1{
+		font-size: 35px;
+	}
+	.nws_content p {
+    	padding: 30px 40px 50px;
+    	font-size: 16px;
+    	line-height: 27px;
+	}
+	.s_icon i{
+		top: 18px;
+	}
+	.s_form{
+		padding: 12px 150px 12px 50px;
+	}
+	.btn_sub {
+	    padding-top: 7px;
+	    width: 135px;
+	    height: 40px;
+	    font-size: 15px;
+	    right: 6px;
+	    top: 6px;
+	}
+
+	/*footer start*/
+	.footer{
+		padding: 50px 0;
+	}
+	.sec1, .sec2{
+		padding-top: 35px;
+		text-align: center;
+	}
+	.footer_logo img {
+    	width: 55% !important;
+	}
+	.sec1 p {
+    	padding: 20px 0 30px;
+    	font-size: 15px;
+    	line-height: 28px;
+	}
+	.social_link ul li a i{
+		padding-right: 8px;
+		font-size: 20px;
+	}
+	.sec2 p{
+		font-size: 15px;
+	}
+	.sec2 h3 {
+    	padding: 10px 0 10px;
+	}
+	.sec2 ul li {
+    	padding-top: 8px;
+	}
+	.sec2 ul li a {
+    	font-size: 15px;
+	}
+
+
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+  	
+	/*header start*/
+	.logo {
+	    width: 170px;
+	}
+	.menu ul li a{
+		padding: 10px 0 0;
+		font-size: 20px;
+	}
+	.btn_search {
+	    width: 150px;
+	    height: 50px;
+	    font-size: 18px;
+	}
+	.btn_login {
+	    width: 90px;
+	    height: 45px;
+	}
+
+	/*banner start*/
+	.banner{
+		padding: 70px 0;
+	}
+	.b_h1 h1 {
+	    font-size: 50px;
+	}
+	.b_p p {
+		padding: 30px 120px 60px 0;
+	    font-size: 17px;
+	    line-height: 30px;
+	}
+	.btn_st {
+    	width: 200px;
+    	height: 55px;
+    	font-size: 20px;
+	}
+	.c_ul {
+    	padding: 180px 0 10px;
+	}
+	.c_ul li{
+		padding-right: 30px;
+	}
+	.c_ul li h2{
+		font-size: 25px
+	}
+	.c_ul li p{
+		font-size: 15px;
+	}
+	.img1{
+		width: 325px;
+		top: 10px;
+	}
+	.border {
+        width: 90px;
+        height: 90px;
+        bottom: 250px;
+        right: 340px;
+    }
+	.img2 {
+		width: 350px;
+    	right: 50px;
+    	bottom: 90px;
+	}
+	.btn_godown{
+		width: 100px;
+		height: 100px;
+		font-size: 35px;
+	}
+	.btn_godown i {
+    	padding-top: 25px;
+	}
+
+	/*service start*/
+	.sh1 {
+    	padding-bottom: 30px;
+	}
+	.line {
+   		width: 13%;
+    	padding: 12px 20px 0 0;
+	}
+	.s_h1 h1 {
+    	font-size: 40px;
+	}
+	.s_item{
+		padding-top: 60px;
+	}
+	.item_img img{
+		width: 35% !important;
+	}
+	.item_text h3 {
+    	padding-bottom: 25px;
+	}
+
+	/*feature start*/
+	.feature{
+		padding: 50px 0;
+	}
+	.fc_img{
+		padding: 0 70px 30px;
+	}
+	.fc_img img{
+		height: 400px !important;
+	}
+	.fc_txt{
+		padding: 0 70px;
+	}
+	.fc_txt h1 {
+    	font-size: 40px;
+	}
+	.fc_txt p {
+	    padding: 20px 0 25px;
+	    font-size: 17px;
+	    line-height: 30px;
+	}
+	#accordion h3 {
+	    padding: 15px 0;
+	    font-size: 18px;	
+	}
+	.plus i {
+    	padding-left: 278px;
+	}
+	.plus2 i {
+    	padding-left: 172px;
+	}
+	.btn_learn {
+        width: 200px;
+        height: 55px;
+        margin-top: 35px !important;
+        font-size: 20px;
+    }
+
+    /*feature2 start*/
+    .feature2{
+		padding: 20px 0;
+	}
+	.f2_content h1 {
+        padding: 0 70px;
+        font-size: 40px;
+    }
+	.step {
+        padding: 50px 70px 0;
+    }
+    .f2_icon img {
+    	width: 70% !important;
+	}
+	.lft_cnt {
+    	padding-left: 80px;
+	}
+	.lft_cnt p{
+		padding: 10px 0 0 0;
+		line-height: 28px;
+	}
+	.lft_cnt h3 {
+    	font-size: 24px;
+	}
+	.f2_img{
+		padding: 0 70px 30px;
+	}
+	.f2_img img{
+		height: 400px;
+	}
+
+	/*about start*/
+	.ab_img img{
+		padding: 0 70px;
+	}
+	.ab_h1 {
+        padding-top: 20px;
+        font-size: 40px;
+    }
+	.pos_car1 {
+        width: 350px;
+        height: 330px;
+        right: 83px;
+        bottom: 175px;
+    }
+	.s_content {
+        width: 350px;
+        height: 330px;
+    }
+	.margin {
+    	margin-right: 0;
+	}
+	.test1 {
+        padding: 20px 30px 25px;
+        width: 350px;
+        height: 335px;
+    }
+	.test1 img {
+    	width: 7% !important;
+	}
+	.test1 p {
+        padding: 20px 0 25px 0;
+        font-size: 15px;
+        line-height: 27px;
+    }
+    .t2{
+    	display: none;
+    }
+	.ca1_img img {
+    	width: 65% !important;
+	}
+	.addr h4 {
+    	font-size: 16px;
+	}
+	.addr span {
+    	font-size: 14px;
+	}
+	.car_btn {
+        width: 130px;
+        bottom: -55px;
+        left: 105px;
+    }
+	.btn_left {
+    	margin-right: 30px;
+	}
+
+	/*newsletter*/
+	.newsletter{
+		padding-top: 60px;
+	}
+	.nws_content h1{
+		font-size: 40px;
+	}
+	.nws_content p {
+    	padding: 30px 40px 50px;
+    	font-size: 16px;
+	}
+	.s_form{
+		padding: 20px 220px 20px 50px;
+	}
+
+	/*footer start*/
+	.footer {
+   	 	padding: 70px 0;
+	}
+	.sec1, .sec2{
+		padding-top: 30px;
+		text-align: center;
+	}
+	.footer_logo img {
+    	width: 60% !important;
+	}
+	.sec1 p {
+    	padding: 20px 0 30px;
+    	font-size: 15px;
+	}
+	.social_link ul li a i{
+		padding-right: 10px;
+	}
+	.sec2 h3 {
+    	padding: 10px 0 10px;
+	}
+	.sec2 ul li {
+    	padding-top: 10px;
+	}
+	.sec2 ul li a {
+    	font-size: 15px;
+	}
+
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    
+	/*header start*/
+	.menu ul li {
+    	padding-right: 30px;
+	}
+	.btn_search {
+	    width: 170px;
+	    height: 55px;
+	}
+
+	/*banner start*/
+	.b_h1 h1 {
+	    font-size: 75px;
+	}
+	.b_p p {
+	    font-size: 20px;
+	    line-height: 36px;
+	}
+	.btn_st {
+    	width: 260px;
+    	height: 70px;
+	}
+	.c_ul li{
+		padding-right: 30px;
+	}
+	.c_ul li h2{
+		font-size: 40px;
+	}
+	.img1{
+		width: 380px;
+	}
+	.border {
+        width: 160px;
+        height: 130px;
+        bottom: 185px;
+        right: 360px;
+    }
+	.img2 {
+		width: 420px;
+    	right: 50px;
+	}
+	.btn_godown{
+		width: 140px;
+		height: 140px;
+		font-size: 50px;
+	}
+
+	/*feature start*/
+	.fc_img {
+    	padding-right: 50px;
+	}
+	.fc_img img{
+		height: 480px !important;
+	}
+	.fc_txt h1 {
+    	font-size: 40px;
+	}
+	.fc_txt p {
+	    padding: 20px 0 15px;
+	    font-size: 18px;
+	    line-height: 30px;
+	}
+	.plus i {
+    	padding-left: 149px;
+	}
+	.plus2 i {
+    	padding-left: 31px;
+	}
+	#accordion h3 {
+    	font-size: 18px;
+	}
+	.btn_learn {
+	    margin-top: 30px !important;
+	    width: 265px;
+	    height: 70px;
+	}
+
+	/*feature2 start*/
+	.f2_content h1{
+		font-size: 40px;
+	}
+	.step {
+    	padding-top: 30px;
+	}
+	.f2_icon img {
+    	width: 70% !important;
+	}
+	.lft_cnt {
+    	padding-left: 85px;
+	}
+	.lft_cnt p{
+		padding: 10px 0px 0 0;
+		line-height: 28px;
+	}
+	.lft_cnt h3 {
+    	font-size: 24px;
+	}
+	.f2_img img{
+		height: 600px;
+	}
+
+	/*feature2 start*/
+	.f2_content h1{
+		font-size: 50px;
+	}
+	.step {
+    	padding-top: 45px;
+	}
+	.lft_cnt p{
+		line-height: 28px;
+	}
+	.lft_cnt h3 {
+    	font-size: 28px;
+	}
+
+
+	/*about start*/
+	.ab_h1{
+		font-size: 50px;
+	}
+	.pos_car1 {
+        width: 780px;
+        height: 385px;
+        right: 10px;
+        bottom: -65px;
+    }
+	.s_content {
+	    width: 780px;
+        height: 385px;
+	}
+	.margin {
+    	margin-right: 30px;
+	}
+	.test1{
+		padding: 50px 40px 60px;
+		width: 375px;
+		height: 385px;
+	}
+	.test1 img {
+    	width: 7% !important;
+	}
+	.test1 p {
+    	padding: 30px 0 35px 0;
+    	font-size: 16px;
+	}
+	.ca1_img img {
+    	width: 65% !important;
+	}
+	.addr h4 {
+    	font-size: 16px;
+	}
+	.addr span {
+    	font-size: 14px;
+	}
+	.car_btn {
+        width: 130px;
+        bottom: 0px;
+        left: -155px;
+    }
+	.btn_left {
+    	margin-right: 30px;
+	}
+
+	/*newsletter*/
+	.nws_content h1{
+		font-size: 50px;
+	}
+	.nws_content p {
+    	padding: 40px 40px 75px;
+	}
+	.s_form{
+		padding: 20px 220px 20px 50px;
+	}
+
+	/*footer start*/
+	.footer_logo img {
+    	width: 60% !important;
+	}
+	.sec1 p {
+    	padding: 40px 0 40px;
+	}
+	.social_link ul li a i{
+		padding-right: 10px;
+	}
+
+
+ }
+
+/* Extra large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+    
+	/*banner start*/
+	.b_h1 h1 {
+	    font-size: 90px;
+	}
+	.c_ul li{
+		padding-right: 55px;
+	}
+	.c_ul li h2{
+		font-size: 50px;
+	}
+	.img1{
+		width: 440px;
+	}
+	.border {
+        width: 160px;
+        height: 130px;
+        bottom: 265px;
+        right: 490px;
+    }
+	.img2 {
+		width: 520px;
+    	right: 55px;
+	}
+	.btn_godown{
+		width: 140px;
+		height: 140px;
+		font-size: 50px;
+	}
+
+	/*feature start*/
+	.fc_img {
+    	padding-right: 50px;
+	}
+	.fc_img img{
+		height: 563px !important;
+	}
+	.fc_txt h1 {
+    	font-size: 50px;
+	}
+	.plus i {
+    	padding-left: 239px;
+	}
+	.plus2 i {
+    	padding-left: 121px;
+	}
+
+	/*feature2 start*/
+	.f2_content h1{
+		font-size: 50px;
+	}
+	.step {
+    	padding-top: 45px;
+	}
+	.lft_cnt p{
+		line-height: 28px;
+	}
+	.lft_cnt h3 {
+    	font-size: 28px;
+	}
+
+	/*about start*/
+	.ab_h1{
+		font-size: 50px;
+	}
+	.pos_car1 {
+	    width: 930px;
+	    height: 440px;
+	    right: 10px;
+	    bottom: -53px;
+	}
+	.s_content {
+	    width: 930px;
+        height: 440px;
+	}
+	.margin {
+    	margin-right: 30px;
+	}
+	.test1{
+		padding: 50px 50px 60px;
+		width: 450px;
+		height: 440px;
+	}
+	.test1 p {
+    	padding: 30px 0 35px 0;
+	}
+	.car_btn {
+	    width: 150px;
+	    position: absolute;
+	    bottom: 0px;
+	    left: -187px;
+	}
+	.btn_left {
+    	margin-right: 40px;
+	}
+
+	/*newsletter*/
+	.nws_content h1{
+		font-size: 50px;
+	}
+	.s_form{
+		padding: 20px 220px 20px 50px;
+	} 
+	
+
+ }
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+    
+ }
